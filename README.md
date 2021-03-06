@@ -10,4 +10,4 @@
 * The 25th and 75th percentiles for June were 73 degrees and 77 degrees, respectively whereas the  25th and 75th percentiles for December were 69 degrees and 74 degrees, respectively
 * The standard deviation for June was about 3.25 degrees and the standard deviation for December was about 3.75
 
-![](https://github.com/mansal2487/surfs_up/blob/main/june_temperatures.PNG) | width = 10000 ![](https://github.com/mansal2487/surfs_up/blob/main/december_temperatures.PNG)
+![](https://github.com/mansal2487/surfs_up/blob/main/june_temperatures.PNG | width=10000) ![](https://github.com/mansal2487/surfs_up/blob/main/december_temperatures.PNG)
